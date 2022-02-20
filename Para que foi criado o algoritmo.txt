@@ -1,0 +1,2 @@
+Este algoritmo foi criado para:
+Escreva um programa que inicie com um vetor de 10 posições preenchido com valores inteiros. Deverá haver outros dois vetores chamados “par” e “impar”, que deverão receber os números pares e ímpares do vetor inicial, respectivamente.
